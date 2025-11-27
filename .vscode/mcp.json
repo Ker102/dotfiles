@@ -78,7 +78,7 @@
       "args": [
         "-y",
         "@modelcontextprotocol/server-tree-sitter",
-        "/path/to/codebase"
+        "${CODEBASE_PATH}"
       ]
     }
   }
